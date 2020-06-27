@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/learning-dashboard/static/css/main.763d8571.chunk.css",
+    "main.js": "/learning-dashboard/static/js/main.18efa6c6.chunk.js",
+    "main.js.map": "/learning-dashboard/static/js/main.18efa6c6.chunk.js.map",
+    "runtime-main.js": "/learning-dashboard/static/js/runtime-main.39db37a1.js",
+    "runtime-main.js.map": "/learning-dashboard/static/js/runtime-main.39db37a1.js.map",
+    "static/js/2.50237fb8.chunk.js": "/learning-dashboard/static/js/2.50237fb8.chunk.js",
+    "static/js/2.50237fb8.chunk.js.map": "/learning-dashboard/static/js/2.50237fb8.chunk.js.map",
+    "index.html": "/learning-dashboard/index.html",
+    "precache-manifest.56859123a9e29d27f81b1f6f4404899b.js": "/learning-dashboard/precache-manifest.56859123a9e29d27f81b1f6f4404899b.js",
+    "service-worker.js": "/learning-dashboard/service-worker.js",
+    "static/css/main.763d8571.chunk.css.map": "/learning-dashboard/static/css/main.763d8571.chunk.css.map",
+    "static/js/2.50237fb8.chunk.js.LICENSE.txt": "/learning-dashboard/static/js/2.50237fb8.chunk.js.LICENSE.txt",
+    "static/media/alert-circle.a663b119.svg": "/learning-dashboard/static/media/alert-circle.a663b119.svg",
+    "static/media/arrow-down.8dc3ae44.svg": "/learning-dashboard/static/media/arrow-down.8dc3ae44.svg",
+    "static/media/arrow-right.21a38094.svg": "/learning-dashboard/static/media/arrow-right.21a38094.svg",
+    "static/media/chat.3c9751b2.svg": "/learning-dashboard/static/media/chat.3c9751b2.svg",
+    "static/media/classes.11608ad0.svg": "/learning-dashboard/static/media/classes.11608ad0.svg",
+    "static/media/dashboard.605764d4.svg": "/learning-dashboard/static/media/dashboard.605764d4.svg",
+    "static/media/envelope.ff7de2e9.svg": "/learning-dashboard/static/media/envelope.ff7de2e9.svg",
+    "static/media/learning.770afc73.svg": "/learning-dashboard/static/media/learning.770afc73.svg",
+    "static/media/logout.f604827c.svg": "/learning-dashboard/static/media/logout.f604827c.svg",
+    "static/media/notification.de58ef7a.svg": "/learning-dashboard/static/media/notification.de58ef7a.svg",
+    "static/media/plan.d8c24584.svg": "/learning-dashboard/static/media/plan.d8c24584.svg",
+    "static/media/profile.205737f4.svg": "/learning-dashboard/static/media/profile.205737f4.svg",
+    "static/media/resources.c1c5ec96.svg": "/learning-dashboard/static/media/resources.c1c5ec96.svg",
+    "static/media/search.1bcd0747.svg": "/learning-dashboard/static/media/search.1bcd0747.svg",
+    "static/media/settings.1587dfb6.svg": "/learning-dashboard/static/media/settings.1587dfb6.svg",
+    "static/media/upgrade.d471d44d.svg": "/learning-dashboard/static/media/upgrade.d471d44d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39db37a1.js",
+    "static/js/2.50237fb8.chunk.js",
+    "static/css/main.763d8571.chunk.css",
+    "static/js/main.18efa6c6.chunk.js"
+  ]
+}
